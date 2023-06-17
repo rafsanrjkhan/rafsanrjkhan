@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Rafsan Ananta](https://github.com/rafsanrjkhan)
 
-- 📫 How to contact me [Rafsan Ananta](https://rafsanrjkhan.github.io/rafsanportfolio/#)
+- ⚡ You can find me here [www.rafsanananta.com](https://rafsanananta.netlify.app/)
 
 - 💬 Ask me about **PHP, Laravel, HTML, Bootstrap, CSS**
 
