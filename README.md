@@ -11,7 +11,9 @@
 
 - 🌱 I’m currently learning **PHP with Laravel Framework**
 
-- 👨‍💻 All of my projects are available at [https://rafsan15-2745.github.io/Rafsan-Ananta/#](https://rafsan15-2745.github.io/Rafsan-Ananta/#)
+- 👨‍💻 All of my projects are available at [Rafsan Ananta](https://github.com/rafsanrjkhan)
+
+- 📫 How to contact me [Rafsan Ananta](https://rafsanrjkhan.github.io/rafsanportfolio/#)
 
 - 💬 Ask me about **PHP, Laravel, HTML, Bootstrap, CSS**
 
