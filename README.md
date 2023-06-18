@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rafsanananta" target="blank"><img src="https://img.shields.io/twitter/follow/rafsanananta?logo=twitter&style=for-the-badge" alt="rafsanananta" /></a> </p>
 
-- 🔭 I’m currently working on [E-Shop](https://github.com/njbm/omniverse)
+- 🔭 I’m currently working on [TechWeb](https://github.com/njbm/omniverse)
 
 - 🌱 I’m currently learning **PHP with Laravel Framework**
 
